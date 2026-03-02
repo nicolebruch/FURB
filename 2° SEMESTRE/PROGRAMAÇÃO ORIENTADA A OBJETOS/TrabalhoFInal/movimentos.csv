@@ -1,0 +1,7 @@
+tipo;codigo;data;quantidade;valor;tipoSaida
+ENTRADA;02;2025-11-22;10;150.0;
+SAIDA;02;2025-11-23;10;10.0;"Venda ao cliente"
+ENTRADA;02;2025-11-22;20;40.0;
+ENTRADA;03;2025-11-20;20;40.0;
+SAIDA;03;2025-11-20;10;40.0;"Venda ao cliente"
+SAIDA;03;2025-11-20;4;40.0;"Devolução a fornecedor"
