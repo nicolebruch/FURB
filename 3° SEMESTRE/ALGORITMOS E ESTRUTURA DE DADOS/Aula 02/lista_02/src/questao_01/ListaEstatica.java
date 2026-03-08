@@ -1,4 +1,4 @@
-package questao_02;
+package questao_01;
 
 public class ListaEstatica<T> {
 
